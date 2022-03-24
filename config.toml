@@ -1,4 +1,4 @@
-baseURL = 'https://rishabhsharma1004.github.io/Woodpeckers/'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Woodpeckers'
 theme = "hugo-book"
