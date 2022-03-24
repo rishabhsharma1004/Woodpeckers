@@ -1,14 +1,14 @@
-# Sonarqube
+### **Sonarqube**
 
 SonarQube provides automated capabilities for continuous inspection of code, detect bugs, code smells and security vulnerabilities on 20+ programming languages, with the historical data and many features it gives enormous possibilities for the project to improve  their code.
 
-### Main Purpose
+## Main Purpose
 
 Used across different projects, where the code quality can be easily measured and self maintained. SonarQube helps projects to understand the quality of their software and ensures the transparency of code. Properly used provides enormous value to the Project Team’s.
 
 
 
-### Accessing SonarQube
+## Accessing SonarQube
 
 Main Portal - [SonarQube Portal](https://sonarqube-test.roche.com/projects)
 
