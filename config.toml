@@ -1,0 +1,5 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Woodpeckers'
+theme = "hugo-book"
+BookMenuBundle= "/menu"
