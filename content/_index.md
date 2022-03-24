@@ -23,6 +23,7 @@ type: docs
 -   [Sonarqube](Sonarqube/Sonarqube.md)
 -   [Proget](Proget/Proget.md)
 -   [DSC](DSC/DSC.md)
+-   [HyperV](HyperV/HyperV.md)
 -   [Enterprise Architect](klocwork.md)
 -   [GitHub](Github/GITHUB.md)
 

@@ -7,6 +7,7 @@ headless: true
 - [**Sonarqube**]({{< relref "/docs/Sonarqube/Sonarqube" >}})
 - [**Proget**]({{< relref "/docs/Proget/Proget" >}})
 - [**DSC**]({{< relref "/docs/DSC/DSC" >}})
+- [**HyperV**]({{< relref "/docs/HyperV/HyperV" >}})
 - [**Enterprise Architect**]({{< relref "/docs/example" >}})
 - [**GitHub**]({{< relref "/docs/GitHub/Github" >}})
 
