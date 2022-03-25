@@ -28,5 +28,5 @@ Remember to remove all non-platform people from the ldap groups you are managing
 
 ### Raising a Support Ticket
 
-[Service Request](https://roche.service-now.com/rose?id=sc_cat_item&sys_id=548ad5afdb8181104ae70028f4961988)   
-[Incident](https://roche.service-now.com/rose?id=sc_cat_item&sys_id=612a9d8fdb8d05904ae70028f49619ca)
+- [Service Request](https://roche.service-now.com/rose?id=sc_cat_item&sys_id=548ad5afdb8181104ae70028f4961988)   
+- [Incident](https://roche.service-now.com/rose?id=sc_cat_item&sys_id=612a9d8fdb8d05904ae70028f49619ca)
