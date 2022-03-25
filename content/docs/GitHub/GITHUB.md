@@ -15,9 +15,13 @@
 
 ### How to get Read Access
 
-People subscribed to the group GLOAZUGHAdmin_ReadOnly will now be linked to organization Roche-SDS-Github-KT, as they are already in an organization they will see our internal repositories. (This organization will be removed once innersourcing solutions by Microsoft is provided).
+Reader access to GitHub can be provided to your team by subscribing to the group [GLOAZUGHAdmin_ReadOnly](https://gds-selfsubscription.roche.com/#/group/GLOAZUGHAdmin_ReadOnly).  
+  
+**Note** : This group will be only used for Reader access and no other purpose, once innersource is enabled we will plug out this group and everyone would have the same access as this group by default.
+  
+**Usage**: Once added you will have access to read internal respositories only of any organization in the enterprise
+  
 
-This makes more sense as we will just have people from platform or usual collaborators in the organization.
 
 Remember to remove all non-platform people from the ldap groups you are managing.
 

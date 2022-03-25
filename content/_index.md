@@ -5,11 +5,11 @@ type: docs
 
 # Introduction
 
-#### We are Woodpeckers team and are part of software development product line in Diagnostics IT Research and Development IT
+### We are Woodpeckers team and are part of software development product line in Diagnostics IT Research and Development IT
 
 ### We are developing and delivering IT Tools for software engineers and devops engineers to accelerate software delivery.
 
-#### For any queries please reach out to <glosdpl_woodpeckers@msxdl.roche.com>
+# For any queries please reach out to <glosdpl_woodpeckers@msxdl.roche.com>
 
 ---
 
