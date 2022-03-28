@@ -8,14 +8,12 @@ Hyper-V is virtualization software that, well, virtualizes software. It can not 
 
 Hyper-V for Windows Servers is an add-on to the Windows Server OS.
 
-Numerous advantages associated with hardware virtualization technology are:
+**Numerous advantages associated with hardware virtualization technology are:**
 
-Manage virtual and dedicated server instances, just like Hyper-V for Windows Servers  
-Managing and controlling virtual machines is easier than managing and controlling a physical server.  
-Virtualizing resources allows administrators to pool their physical resources  
-With virtualization technology, administrators don&#39;t have to wait for every application to be certified on new hardware. They can simply set up the environment and migrate the virtual machine, and everything works exactly as before  
-
-
+- Manage virtual and dedicated server instances, just like Hyper-V for Windows Servers  
+- Managing and controlling virtual machines is easier than managing and controlling a physical server.  
+- Virtualizing resources allows administrators to pool their physical resources  
+- With virtualization technology, administrators don&#39;t have to wait for every application to be certified on new hardware. They can simply set up the environment and migrate the virtual machine, and everything works exactly as before  
 
 
 
