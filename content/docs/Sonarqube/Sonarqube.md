@@ -10,17 +10,17 @@ Used across different projects, where the code quality can be easily measured an
 
 ## Accessing SonarQube
 
-Main Portal - [SonarQube Portal](https://sonarqube-test.roche.com/projects)
+   Main Portal - [SonarQube Portal](https://sonarqube-test.roche.com/projects)
 
 ### We offer multiple environments:
 
-[Sonarqube Test](https://sonarqube-test.roche.com/) → for testing new features  
-[Sonarqube prod](https://sonarqube.roche.com/about) → stable environment (use rocheid and password to login)
+- [Sonarqube Test](https://sonarqube-test.roche.com/) → for testing new features  
+- [Sonarqube prod](https://sonarqube.roche.com/about) → stable environment (use rocheid and password to login)
 
 ### Reach out to us for support
 
-[Service Now Service Request](https://roche.service-now.com/rose?id=nr_sc_cat_item&sys_id=40a5c34deb48bb44fc9e0dffab887e10)
+- [Service Now Service Request](https://roche.service-now.com/rose?id=nr_sc_cat_item&sys_id=40a5c34deb48bb44fc9e0dffab887e10)
 
-[ServiceNow Incident](https://sonarqube.roche.com/about)
+- [ServiceNow Incident](https://sonarqube.roche.com/about)
 
 

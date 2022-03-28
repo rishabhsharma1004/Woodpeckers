@@ -1,4 +1,4 @@
-### GitHub Enterprise Cloud
+# **GitHub Enterprise Cloud**
 
 [GitHub Enterprise](https://repo.roche.com) is a software development and version control using Git. It offers the distributed version control and source code management functionality of Git, plus its own features.
 
@@ -17,9 +17,9 @@
 
 Reader access to GitHub can be provided to your team by subscribing to the group [GLOAZUGHAdmin_ReadOnly](https://gds-selfsubscription.roche.com/#/group/GLOAZUGHAdmin_ReadOnly).  
   
-**Note** : This group will be only used for Reader access and no other purpose, once innersource is enabled we will plug out this group and everyone would have the same access as this group by default.
+    **Note** : This group will be only used for Reader access and no other purpose, once innersource is enabled we will plug out this group and everyone would have the same access as this group by default.
   
-**Usage**: Once added you will have access to read internal respositories only of any organization in the enterprise
+    **Usage**: Once added you will have access to read internal respositories only of any organization in the enterprise
   
 
 
