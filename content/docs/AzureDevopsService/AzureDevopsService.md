@@ -41,11 +41,11 @@ There are multiple common GUIs available to access Azure DevOps Service :
 - MS Project/ MS Excel with Team Explorer plugin  
 - Third party tools  
   
-## Get started: Connect to Azure DevOps Service  
+## Get started: Connect to Azure DevOps Services  
 
 Azure DevOps Service :
 
-Organization­ Name of the Azure DevOps Service account. Typically you will have one
+Organization­ Name of the Azure DevOps Services account. Typically you will have one
 Azure DevOps account and manage multiple Team projects within.
 
   Team Project: To manage access control and split your code and pipelines from one and other  
@@ -57,6 +57,7 @@ Azure DevOps account and manage multiple Team projects within.
 ### **Onboarding to Azure DevOps need:**
 
 - [CornerStone Training](https://roche.csod.com/ui/lms-learning-details/app/material/d1bb0e96-d3e3-42bf-9e72-d69e480b9b92)
+- [DIARNDIT Toolchain](https://streamingmedia.roche.com/channel/DIARNDIT%2BToolchain/236131663): Streaming portal channel for the information and training videos (We are still working on it and will upload more videos ASAP).
 
 # Reach out to us for support
 
