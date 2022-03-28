@@ -1,4 +1,4 @@
-# Azure DevOps Server
+# **Azure DevOps Server**
 
 Azure DevOps Server previously known as Team Foundation Server (commonly abbreviated to TFS) is a Microsoft product that provides below capabilities. 
 <ol>
@@ -14,7 +14,7 @@ It covers the entire application lifecycle, and enables DevOps capabilities.
 ADO in Roche Diagnostics supports mainly with software development process by hosting Source control repository, Document Storage, Reporting, building and testing of software.
 
 
-### Azure DevOps Server access
+## Azure DevOps Server access
 
 There are multiple common GUIs available to access Azure DevOps Server :  
 
@@ -28,7 +28,7 @@ MS Project/ MS Excel with Team Explorer plugin
 
 
 
-### Connect to Azure DevOps Server
+## Connect to Azure DevOps Server
 
 Azure DevOps Server :
 <ol>
