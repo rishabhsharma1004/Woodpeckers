@@ -5,11 +5,12 @@ type: docs
 
 # Introduction
 
-### We are Woodpeckers team and are part of software development product line in Diagnostics IT Research and Development IT
+### We are Woodpeckers team and are part of software development product line in Diagnostics Research and Development IT
 
-### We are developing and delivering IT Tools for software engineers and devops engineers to accelerate software delivery.
+### We support the toolchain required for software engineers and devops engineers to accelerate software delivery.
 
 # For any queries please reach out to <glosdpl_woodpeckers@msxdl.roche.com>
+# for any support 
 
 ---
 
@@ -18,13 +19,14 @@ type: docs
 
 **Get started with our tools**
 
--   [Azure DevOps Service]({{< relref "/docs/AzureDevopsService/AzureDevopsService" >}})
--   [Azure DevOps Server]({{< relref "/docs/AzureDevopsServer/AzureDevopsServer" >}})
--   [Sonarqube](Sonarqube/Sonarqube.md)
--   [Proget](Proget/Proget.md)
--   [DSC](DSC/DSC.md)
--   [HyperV](HyperV/HyperV.md)
--   [Enterprise Architect](klocwork.md)
--   [GitHub](Github/GITHUB.md)
+-   [**Azure DevOps Services**]({{< relref "/docs/AzureDevopsService/AzureDevopsService" >}})
+-   [**Azure DevOps Server**]({{< relref "/docs/AzureDevopsServer/AzureDevopsServer" >}})
+-   [**Sonarqube**]({{< relref "/docs/Sonarqube/Sonarqube" >}})
+-   [**Proget**]({{< relref "/docs/Proget/Proget" >}})
+-   [**DSC**]({{< relref "/docs/DSC/DSC" >}})
+-   [**HyperV**]({{< relref "/docs/HyperV/HyperV" >}})
+-   [**Enterprise Architect**]({{< relref "/docs/example" >}})
+-   [**GitHub**]({{< relref "/docs/GitHub/Github" >}})
+
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->

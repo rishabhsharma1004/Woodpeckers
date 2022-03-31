@@ -1,6 +1,8 @@
 # **Hyper-V**
 
-Hyper-V is virtualization software that, well, virtualizes software. It can not only virtualize operating systems but also entire hardware components, such as hard drives and network switches. Unlike Fusion and Virtualbox, Hyper-V is not limited to the user&#39;s device. You can use it for server virtualization, too. Hyper-V is available in three versions.
+<p align="justify">Hyper-V is virtualization software that, well, virtualizes software. It can not only virtualize operating systems but also entire hardware components, such as hard drives and network switches. Unlike Fusion and Virtualbox, Hyper-V is not limited to the user's device. You can use it for server virtualization, too. </p>
+
+Hyper-V is available in three versions.
 
 - Hyper-V for Windows Servers
 - Hyper-V Servers
