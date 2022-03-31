@@ -1,7 +1,6 @@
 # **Azure DevOps Services**
 
-  
-    
+
 1.Continued heavy investment in Azure DevOps  
 2.Best in class CI/CD solution across the industry  
 3.Best & most reliable solution for managing development teams  
@@ -48,18 +47,18 @@ Azure DevOps Service :
 Organization­ Name of the Azure DevOps Services account. Typically you will have one
 Azure DevOps account and manage multiple Team projects within.
 
-  Team Project: To manage access control and split your code and pipelines from one and other  
-  Production : diaitads  
-  Test : RnDITSWDev  
-  [Prod Environment](https://dev.azure.com/diaitads/):- Connections to the productive environment:   
-  [Test Environment](https://dev.azure.com/RnDITSWDev):- Connections to the test environment and Test Organization are made available for any testing purposes.  
+    Team Project: To manage access control and split your code and pipelines from one and other  
+    Production : diaitads  
+    Test : RnDITSWDev  
+    [Prod Environment](https://dev.azure.com/diaitads/):- Connections to the productive environment:   
+    [Test Environment](https://dev.azure.com/RnDITSWDev):- Connections to the test environment and Test Organization are made available for any testing purposes.  
 
-### **Onboarding to Azure DevOps need:**
+## **Onboarding to Azure DevOps need:**
 
 - [CornerStone Training](https://roche.csod.com/ui/lms-learning-details/app/material/d1bb0e96-d3e3-42bf-9e72-d69e480b9b92)
 - [DIARNDIT Toolchain](https://streamingmedia.roche.com/channel/DIARNDIT%2BToolchain/236131663): Streaming portal channel for the information and training videos (We are still working on it and will upload more videos ASAP).
 
-# Reach out to us for support
+## Reach out to us for support
 
 - [ServiceNow Service Request](https://roche.service-now.com/rose?id=nr_sc_cat_item&sys_id=7065d891eb083f44fc9e0dffab887eeb)  
 - [To Raise Incident](https://roche.service-now.com/rose?id=nr_sc_cat_item&sys_id=4610049b4f7b5704c93809de0310c7b5) 
