@@ -25,7 +25,7 @@ type: docs
 -   [**Proget**]({{< relref "/docs/Proget/Proget" >}})
 -   [**DSC**]({{< relref "/docs/DSC/DSC" >}})
 -   [**HyperV**]({{< relref "/docs/HyperV/HyperV" >}})
--   [**Enterprise Architect**]({{< relref "/docs/example" >}})
+-   [**Enterprise Architect**]({{< relref "/docs/EAR/EAR" >}})
 -   [**GitHub**]({{< relref "/docs/GitHub/Github" >}})
 
 
