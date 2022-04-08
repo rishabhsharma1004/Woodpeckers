@@ -16,9 +16,9 @@ Sparx Systems Enterprise Architect is a visual modeling and design tool based on
 
 [Download](https://drive.google.com/drive/folders/1YJcznmiLH5TZcDl69wbIkohbTQzmaGHb?usp=sharing) 
 
-**Activation Key**
+**Activation Key**:- 
 W2W9
 
-**License server**
+**License server**:- 
 ssks://rkamv1198
 
