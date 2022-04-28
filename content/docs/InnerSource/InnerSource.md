@@ -16,7 +16,10 @@ Innersource is a development methodology where engineers build proprietary softw
 
     <p align="justify">More contributions mean more opportunities. Open source projects can accept changes from anybody in the world. That's a lot of brainpower dedicated to advancing a project, meeting user needs, and finding and fixing bugs.</p>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> f5270038a46298ed4d9f89049519a90f8b71d53d
     <p align="justify">Similarly, innersource brings more ideas to the table. Teams can more easily innovate—and with more people inspecting code for errors and inconsistencies, they can build securer, more reliable software. Problems are found and fixed before the wrong person discovers them.</p>
 
 - **Developers don't always have to start from scratch**
@@ -39,9 +42,9 @@ Innersource is a development methodology where engineers build proprietary softw
 
 - **Core development teams strengthen a project&#39;s process**
 
-    Open source projects may have thousands of contributors and community members, but a much smaller team is usually responsible for the project's overall direction. This speeds up decision-making and ensures that someone's always responsible.
+    <p align="justify">Open source projects may have thousands of contributors and community members, but a much smaller team is usually responsible for the project's overall direction. This speeds up decision-making and ensures that someone's always responsible.</p>
 
-    For innersource projects, distributing control across a smaller group of participants frequently makes approvals and reviews more effective. Creating a small, cross-functional team of decision makers can also help teams stick to quality standards and gain executive support.
+    <p align="justify">For innersource projects, distributing control across a smaller group of participants frequently makes approvals and reviews more effective. Creating a small, cross-functional team of decision makers can also help teams stick to quality standards and gain executive support.</p>
 
 ## **InnerSource Best Practices:**
 
