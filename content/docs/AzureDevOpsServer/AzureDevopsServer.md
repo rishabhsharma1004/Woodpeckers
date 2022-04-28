@@ -30,10 +30,10 @@ There are multiple common GUIs available to access Azure DevOps Server :
 
 **Azure DevOps Server** :
 
-    Production : *tfsprod*
-    Test : *tfstest*
-    Team Project Collection Geography of the user base. E.g.: Mannheim, Boston
-    Team Project Company.Department(2 Letters).Project e.g. Roche.FA.Solution_Center_RnD
+  Production : *tfsprod*
+  Test : *tfstest*
+  Team Project Collection Geography of the user base. E.g.: Mannheim, Boston
+  Team Project Company.Department(2 Letters).Project e.g. Roche.FA.Solution_Center_RnD
 
 
 

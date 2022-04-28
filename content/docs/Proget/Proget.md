@@ -14,7 +14,7 @@ ProGet Tool provided by Inedo, provides central repository for different type of
 
 ## Access to Proget-Nuget
 
-   - NugetProd : [NugetProd](https://nugetprod.emea.roche.com/)
+  - NugetProd : [NugetProd](https://nugetprod.emea.roche.com/)
 
 ## Reach out to us for support
 

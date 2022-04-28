@@ -2,7 +2,7 @@
 headless: true
 ---
 
-- [**Azure DevOps Services**]({{< relref "/docs/AzureDevopsService/AzureDevopsService" >}})
+- [**Azure DevOps Services**]({{< relref "/docs/AzureDevopsServics/AzureDevopsServices" >}})
         -   [**Agent Pool**]({{< relref "/docs/AzureDevopsService/AgentPool" >}})
 - [**Azure DevOps Server**]({{< relref "/docs/AzureDevopsServer/AzureDevopsServer" >}})
 - [**Sonarqube**]({{< relref "/docs/Sonarqube/Sonarqube" >}})

@@ -17,15 +17,15 @@ Each business partner may count on a dedicated space with the above components.
 
 - **DSC Test** (dsctest.emea.roche.com:*Dedicated port*)
 
-    - Configuration: (dsctestconfiguration.emea.roche.com:*Dedicated port*)
-    - Reporting: (dsctestreporting.emea.roche.com:*Dedicated port*)
-    - Resources: (dsctestresources.emea.roche.com\\*Dedicated file share*)
+  - Configuration: (dsctestconfiguration.emea.roche.com:*Dedicated port*)
+  - Reporting: (dsctestreporting.emea.roche.com:*Dedicated port*)
+  - Resources: (dsctestresources.emea.roche.com\\*Dedicated file share*)
 
 - **DSC Production** (dscprod.emea.roche.com:*Dedicated port*)
 
-    - Configuration: (dscprodconfiguration.emea.roche.com:*Dedicated port*)
-    - Reporting: (dscprodreporting.emea.roche.com:*Dedicated port*)
-    - Resources: (dscprodresources.emea.roche.com\\*Dedicated file share*)
+  - Configuration: (dscprodconfiguration.emea.roche.com:*Dedicated port*)
+  - Reporting: (dscprodreporting.emea.roche.com:*Dedicated port*)
+  - Resources: (dscprodresources.emea.roche.com\\*Dedicated file share*)
 
 
 ## **Reach out to us for support**
