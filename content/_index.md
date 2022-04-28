@@ -28,6 +28,7 @@ type: docs
 -   [**HyperV**]({{< relref "/docs/HyperV/HyperV" >}})
 -   [**Enterprise Architect**]({{< relref "/docs/EAR/EAR" >}})
 -   [**GitHub**]({{< relref "/docs/GitHub/Github" >}})
+-   [**InnerSource**]({{< relref "/docs/InnerSource/InnerSource" >}})
 
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
