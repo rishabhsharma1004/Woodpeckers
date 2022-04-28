@@ -1,5 +1,7 @@
 # **Azure DevOps Services**
 
+Azure DevOps is a Microsoft product that provides developer services for allowing teams to plan work, collaborate on code development, and build and deploy applications. Azure DevOps supports a collaborative culture and set of processes that bring together developers, project managers, and contributors to develop software. It allows organizations to create and improve products at a faster pace than they can with traditional software development approaches.It covers the entire application life-cycle, and enables DevOps capabilities.We support both Azure DevOps Server(On premises) and Azure DevOps Servcies(Cloud).  
+
 
 1.Continued heavy investment in Azure DevOps  
 2.Best in class CI/CD solution across the industry  

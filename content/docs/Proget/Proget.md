@@ -3,6 +3,9 @@
 ProGet helps you package applications and components so you can ensure your software is built only once, and then deployed consistently across environments. This means everyone can be certain that what goes to production is exactly what was built and tested.
 Third-party packages (such as NuGet, npm, PowerShell, and Chocolatey) and Docker containers are also supported, allowing you to enforce quality standards, monitor for open-source licenses, and scan for vulnerabilities across all packages, much earlier in the development cycle.
 
+ProGet Tool provided by Inedo, provides central repository for different type of  the  packages eg. Nuget, Docker et. It helps with distributing applications and components (packages) across multiple environments(projects). 
+
+
 ### Main Features
 - Package Management across project.
 

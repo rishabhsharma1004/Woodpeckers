@@ -1,8 +1,8 @@
 # **DSC**
 
    
+Management platform provided by the Microsoft, also known as a powershell feature. DSC provides a set of Power Shell language extensions and cmdlets. The main idea is to provide a method for maintaining consistent configuration across computers or devices.Using central DSC server, projects can store OS configuration and use it several times across builds.Mainly used for configuration, deployment and management of systems and configuration.
 
-<p align="justify">Management platform provided by the Microsoft, also known as a PowerShell feature. DSC provides a set of PowerShell language extensions. The main idea is to provide a method for maintaining consistent configuration across computers or devices. Using central DSC server, projects can store OS configuration, configuration resources and use them several times across builds. Mainly used for setting up virtualized environments, deployments and management of systems.</p>
 
 Woodpeckers team is supplying a complete solution for the business partners who would like to enhance their DSC practice. 
 The offer consists of:
