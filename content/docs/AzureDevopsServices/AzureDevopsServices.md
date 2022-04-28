@@ -46,11 +46,11 @@ Azure DevOps Service :
 Organization­ Name of the Azure DevOps Services account. Typically you will have one
 Azure DevOps account and manage multiple Team projects within.
 
-    Team Project: To manage access control and split your code and pipelines from one and other  
-    Production : diaitads  
-    Test : RnDITSWDev  
-    [Prod Environment](https://dev.azure.com/diaitads/):- Connections to the productive environment:   
-    [Test Environment](https://dev.azure.com/RnDITSWDev):- Connections to the test environment and Test Organization are made available for any testing purposes.  
+  Team Project: To manage access control and split your code and pipelines from one and other  
+  Production : diaitads  
+  Test : RnDITSWDev  
+  [Prod Environment](https://dev.azure.com/diaitads/):- Connections to the productive environment:   
+  [Test Environment](https://dev.azure.com/RnDITSWDev):- Connections to the test environment and Test Organization are made available for any testing purposes.  
 
 ## **Onboarding to Azure DevOps need:**
 

@@ -1,22 +1,6 @@
 # **Hyper-V**
 
-<p align="justify">Hyper-V is virtualization software that, well, virtualizes software. It can not only virtualize operating systems but also entire hardware components, such as hard drives and network switches. Unlike Fusion and Virtualbox, Hyper-V is not limited to the user's device. You can use it for server virtualization, too. </p>
-
-Hyper-V is available in three versions.
-
-- Hyper-V for Windows Servers
-- Hyper-V Servers
-- Hyper-V on Windows 10
-
-Hyper-V for Windows Servers is an add-on to the Windows Server OS.
-
-**Numerous advantages associated with hardware virtualization technology are:**
-
-- Manage virtual and dedicated server instances, just like Hyper-V for Windows Servers  
-- Managing and controlling virtual machines is easier than managing and controlling a physical server.  
-- Virtualizing resources allows administrators to pool their physical resources  
-- With virtualization technology, administrators don&#39;t have to wait for every application to be certified on new hardware. They can simply set up the environment and migrate the virtual machine, and everything works exactly as before  
-
+Hyper-V cluster is a set of several similar Hyper-V servers (called nodes), which can be specifically configured to work together, so that one node can take the load (VMs, services, processes) if another one goes down or if there is a disaster. Customers can request for virtual machines to consume in CI/CD pipelines. We provide a dedicated cluster to manage virtual machines by the team or we manage virtual machines in a shared cluster for the team. 
 
 
 
