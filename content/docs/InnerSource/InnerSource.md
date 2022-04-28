@@ -39,13 +39,9 @@ Innersource is a development methodology where engineers build proprietary softw
 
 - **Core development teams strengthen a project&#39;s process**
 
-<<<<<<< HEAD
     Open source projects may have thousands of contributors and community members, but a much smaller team is usually responsible for the project's overall direction. This speeds up decision-making and ensures that someone's always responsible.
-=======
-    <p align="justify">Open source projects may have thousands of contributors and community members, but a much smaller team is usually responsible for the project&#39;s overall direction. This speeds up decision-making and ensures that someone&#39;s always responsible.
->>>>>>> 75a7f399c713044eade926a87c4525b4fc874d7b
 
-    For innersource projects, distributing control across a smaller group of participants frequently makes approvals and reviews more effective. Creating a small, cross-functional team of decision makers can also help teams stick to quality standards and gain executive support.</p>
+    For innersource projects, distributing control across a smaller group of participants frequently makes approvals and reviews more effective. Creating a small, cross-functional team of decision makers can also help teams stick to quality standards and gain executive support.
 
 ## **InnerSource Best Practices:**
 
